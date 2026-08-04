@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 I’m currently working on LockedIn<br>I’m currently learning Typescript, Redux, Production level AI<br>I regularly write on https://x.com/vaishnavvvTweet<br>Ask me about AI Powered Full stack Development, React, MongoDB<br>How to reach me vaishnavk9420@gmail.com<br>Know about my experiences https://drive.google.com/file/d/1gagpBcGbbykHg7oAn4DSDedJGf4gfATY/view?usp=drive_link<br>Fun fact i love hip hop music and lifting weights
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishnavc0re) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connect-with-vaishnav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vaishnavvvTweet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@vaishnavcore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavk9420@gmail.com) 
 
 # 💻 Tech Stack:
