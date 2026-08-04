@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m currently working on LockedIn<br>🌱 I’m currently learning Typescript, Redux, Production level AI  <br>📝 I regularly write on https://x.com/vaishnavvvTweet<br>💬 Ask me about  AI Powered Full stack Development, React, MongoDB<br>📫 How to reach me vaishnavk9420@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1gagpBcGbbykHg7oAn4DSDedJGf4gfATY/view?usp=drive_link<br>⚡ Fun fact i love hip hop music and lifting weights
+#  About Me:
+I’m currently working on LockedIn<br> I’m currently learning Typescript, Redux, Production level AI  <br> I regularly write on https://x.com/vaishnavvvTweet<br>💬 Ask me about  AI Powered Full stack Development, React, MongoDB<br> How to reach me vaishnavk9420@gmail.com<br> Know about my experiences https://drive.google.com/file/d/1gagpBcGbbykHg7oAn4DSDedJGf4gfATY/view?usp=drive_link<br> Fun fact i love hip hop music and lifting weights
 
 
 ## 🌐 Socials:
