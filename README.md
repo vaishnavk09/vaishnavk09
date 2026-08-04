@@ -15,12 +15,6 @@ I’m currently working on LockedIn<br>🌱 I’m currently learning Typescript,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaishnavk09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=vaishnavk09&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
